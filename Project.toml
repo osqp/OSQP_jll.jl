@@ -1,6 +1,6 @@
 name = "OSQP_jll"
 uuid = "9c4f68bf-6205-5545-a508-2878b064d984"
-version = "1.0.100+0"
+version = "100.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
