@@ -8,7 +8,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `OSQP_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/osqp/osqp.git (revision: `a4b5c27d49545b6f0b289eb49c5732d4a0460659`)
+* git repository: https://github.com/osqp/osqp.git (revision: `538b7bf39e7aa2aab74c3ab4013218f11f31dfe4`)
 
 ## Platforms
 
