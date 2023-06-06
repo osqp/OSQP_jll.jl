@@ -134,10 +134,10 @@ os = "windows"
     url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.x86_64-w64-mingw32.tar.gz"
 [[OSQP]]
 arch = "x86_64"
-git-tree-sha1 = "e0b39c2256ec55f097c912208950350455fcb67a"
+git-tree-sha1 = "84e7d6b8191a8f9a9d9f378a96b54dbb23f50eab"
 libc = "glibc"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "95aea552c69d6f6beac794ac07edd0c96f46490778dc9e3912e8d7ff06923796"
+    sha256 = "806c16e234944359a1c9f2ee24dd2c20098724453b8f5a9ab5888bd57f1f7827"
     url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.x86_64-linux-gnu.tar.gz"
