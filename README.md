@@ -10,13 +10,28 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `OSQP_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/osqp/osqp.git (revision: `492b7b3b125da50b2e474225be20d5172df1d793`)
+* git repository: https://github.com/osqp/osqp.git (revision: `691a63e123f2015441c8ca0a1494db33ebe666f7`)
 
 ## Platforms
 
 `OSQP_jll.jl` is available for the following platforms:
 
+* `macOS aarch64` (`aarch64-apple-darwin`)
+* `Linux aarch64 {libc=glibc}` (`aarch64-linux-gnu`)
+* `Linux aarch64 {libc=musl}` (`aarch64-linux-musl`)
+* `Linux armv6l {call_abi=eabihf, libc=glibc}` (`armv6l-linux-gnueabihf`)
+* `Linux armv6l {call_abi=eabihf, libc=musl}` (`armv6l-linux-musleabihf`)
+* `Linux armv7l {call_abi=eabihf, libc=glibc}` (`armv7l-linux-gnueabihf`)
+* `Linux armv7l {call_abi=eabihf, libc=musl}` (`armv7l-linux-musleabihf`)
+* `Linux i686 {libc=glibc}` (`i686-linux-gnu`)
+* `Linux i686 {libc=musl}` (`i686-linux-musl`)
+* `Windows i686` (`i686-w64-mingw32`)
+* `Linux powerpc64le {libc=glibc}` (`powerpc64le-linux-gnu`)
+* `macOS x86_64` (`x86_64-apple-darwin`)
 * `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
+* `Linux x86_64 {libc=musl}` (`x86_64-linux-musl`)
+* `FreeBSD x86_64` (`x86_64-unknown-freebsd`)
+* `Windows x86_64` (`x86_64-w64-mingw32`)
 
 ## Products
 

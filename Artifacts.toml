@@ -1,143 +1,143 @@
 [[OSQP]]
 arch = "aarch64"
-git-tree-sha1 = "9005fb2332471107af17fa145de45779097afcb0"
+git-tree-sha1 = "5f5f2330639848c5bd7436ed99053e5ee64be9e0"
 os = "macos"
 
     [[OSQP.download]]
-    sha256 = "94426d59e91127c4643b4dbf726f19a5fbcee7c1b9a2ae5f5b5711d34610be6b"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.aarch64-apple-darwin.tar.gz"
+    sha256 = "83ee0f09602eebe8cd4fdbdcc00cb40e1075ac4ffdab71f75da103b5825800bf"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.aarch64-apple-darwin.tar.gz"
 [[OSQP]]
 arch = "aarch64"
-git-tree-sha1 = "60c908ba01abe2d66bce48c04e061fa31340292b"
+git-tree-sha1 = "26a17e49bad88269cc986fc932ac47835282955a"
 libc = "glibc"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "c995cc691bbfcd9e1fa3e2aa0af5ccdd1cf0f0d05d31addbeea3d1c25cfd7af3"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.aarch64-linux-gnu.tar.gz"
+    sha256 = "d655bbc5d229a65e45fb912c4ecba3a8fb76bc9b4d9e8ee857a2afa6c6a1971a"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.aarch64-linux-gnu.tar.gz"
 [[OSQP]]
 arch = "aarch64"
-git-tree-sha1 = "b6ff27097e71e4586ba69daadb2acc22a0b7b38d"
+git-tree-sha1 = "d0df83420bfa48c3f9f446b94c093cab662e12d0"
 libc = "musl"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "5e9a703f193290905d4f1a2b2b31a0da5cd9d9491bc86146728ad78ac2018ab1"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.aarch64-linux-musl.tar.gz"
+    sha256 = "1be4b8ce8ad86954b79ebf0892b90f135bf58f868970303918cbcc24dcf8fa4e"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.aarch64-linux-musl.tar.gz"
 [[OSQP]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c758bbec0b749f6d64b57cbd44d2e5b61a8cb29f"
+git-tree-sha1 = "9007d3aff58b380f95c0da7c6096c50a908d8221"
 libc = "glibc"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "b1c374abe9de15bff5fdbaf2338da76b7922d62be549ab89c0fc686f99ead147"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "72cfe124e012ac23927172e9f35f63eb147a1efcbe7c2891be5fbd6fe69c07d0"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.armv6l-linux-gnueabihf.tar.gz"
 [[OSQP]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "4713213f8e7c837893fdab2297b8e0df3faf13d4"
+git-tree-sha1 = "7c857869c8e7762a8b0ec74302367c4d0eab0120"
 libc = "musl"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "18ddfce04b40685510c35f017cb4aa3c90d0c4822a9df0ea6a64321b499aec5b"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "ab947e96d42114701139aa761609190681cc6626800d5ee69653be5a7b88e17d"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.armv6l-linux-musleabihf.tar.gz"
 [[OSQP]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4ac7f4121d7cc9004ddacf941810d2cfb06d1ae3"
+git-tree-sha1 = "0dcf2037b0c63634dab79a840adf81b4cd6c4351"
 libc = "glibc"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "78e67ac9a16dda9191bee82e4c48d90a75558d5d86ce5764c7f6bda36be5c2c5"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "a21f0dcb12b7a6d42612a4822a78479b8f48d95dec1e9626b471306e64783c94"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.armv7l-linux-gnueabihf.tar.gz"
 [[OSQP]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "62a6007fb7ee6d60e0151c2d84acdafe1f97a30c"
+git-tree-sha1 = "28598a0735fce1d90fc2bf0a0eaf46fcc53f5775"
 libc = "musl"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "f7b6648575a5778f35aede67c893456de8210c5a9b7c739e0d0f29f245cb1ee6"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "86d79728362cb440fc3f6e794c109026d316794cc3ab77d1e69f3422f5f5c642"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.armv7l-linux-musleabihf.tar.gz"
 [[OSQP]]
 arch = "i686"
-git-tree-sha1 = "40b85b5883b5554cf173803676f315e7d0a5583c"
+git-tree-sha1 = "96c61bef6d4445a09bfb1e27692b10ba30de0c6e"
 libc = "glibc"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "d384245de19d53073ed9e596056d98b842ffebe1e2737a622f762972c694ab59"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.i686-linux-gnu.tar.gz"
+    sha256 = "39664fdef69922fed98b1aeaf6a754b94f3193b40511d8f1a943da1866582a0d"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.i686-linux-gnu.tar.gz"
 [[OSQP]]
 arch = "i686"
-git-tree-sha1 = "5d38fc746c8514312ba24ade21bc245dc88957f3"
+git-tree-sha1 = "7910bb45e11ae6228618226b642a2f005beded66"
 libc = "musl"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "b6b4b5db1f2d3c985483b82d7585ccaaa9a393907e51c7b45dbbbde3828aa9f1"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.i686-linux-musl.tar.gz"
+    sha256 = "f79450e3e5cff389ebe493e69e7769735c3380421d72c0333c677fb247e16d95"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.i686-linux-musl.tar.gz"
 [[OSQP]]
 arch = "i686"
-git-tree-sha1 = "b782227fcadacb5e12337de4cfa3420d23d32755"
+git-tree-sha1 = "7d30ae8a37d4e21fe1786dbed819c007adcf2158"
 os = "windows"
 
     [[OSQP.download]]
-    sha256 = "5e5cc15175e4dbaccefe5074284f86844b8d310eef2aa0cffca0438078852c2b"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.i686-w64-mingw32.tar.gz"
+    sha256 = "02b618cfe6481b9335272007bd2aea63fab2b41a0bd8d2c5336f29683b54026a"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.i686-w64-mingw32.tar.gz"
 [[OSQP]]
 arch = "powerpc64le"
-git-tree-sha1 = "8cc77c6aa637b665859cc16d7fc8e186b7dfd97d"
+git-tree-sha1 = "e2910c7868d7c6248f537e24982e3c935746ddda"
 libc = "glibc"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "ff19c9a066f375790e78f8f14a4bd46a96fa173f8e0cd1ace29864d542373452"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "65c93e132db700485ba131ef245731630876bc775073d9397a8cfbe49d45b39e"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.powerpc64le-linux-gnu.tar.gz"
 [[OSQP]]
 arch = "x86_64"
-git-tree-sha1 = "2e5d218d3b906daff8ca336c9f7e0ecf9546d8cb"
+git-tree-sha1 = "9ae2236f728d485def648d42a5604130a7337cca"
 os = "macos"
 
     [[OSQP.download]]
-    sha256 = "e89a79e0ff6871e6ff5f5b2bd8e9d09f4be613c50b93232318fa965d49668472"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.x86_64-apple-darwin.tar.gz"
+    sha256 = "a04ff12e436a2429219aa759075af6deaf211e2faf05e263cbc090e1eb324ef8"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.x86_64-apple-darwin.tar.gz"
 [[OSQP]]
 arch = "x86_64"
-git-tree-sha1 = "03fb9e91386c20123b21044533d97582ddbbacfa"
+git-tree-sha1 = "3290dfbd2f88136e2b33e4e9070cede218dc997e"
+libc = "glibc"
+os = "linux"
+
+    [[OSQP.download]]
+    sha256 = "df89f2cb2cbea54575c1b6aea5a9fa14ab88c0eb94d536bd06a09e6178c47356"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.x86_64-linux-gnu.tar.gz"
+[[OSQP]]
+arch = "x86_64"
+git-tree-sha1 = "ce247540fe440c777917f72675420ff564497b1e"
 libc = "musl"
 os = "linux"
 
     [[OSQP.download]]
-    sha256 = "9ea491ab3591a5078ab95e1dc4bc1d188ec1c5c3cd12487032a7120559efb107"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.x86_64-linux-musl.tar.gz"
+    sha256 = "5d3168a9bd82a2e170e04ca9b1b0b4e30a27d6a352f94c078e383a66003bd63c"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.x86_64-linux-musl.tar.gz"
 [[OSQP]]
 arch = "x86_64"
-git-tree-sha1 = "0812c7c25bf64b66725693c1fe631188118f6df6"
+git-tree-sha1 = "b0e49951ebbcd625ca99cdba44eb1439b3766c98"
 os = "freebsd"
 
     [[OSQP.download]]
-    sha256 = "701f7cd3e18c623a6bce88adfb2de7a2976bfa656cedab4c4c144156f3cfe608"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "fd9e4088ced512ca2e479adde74bcbc7f187f7c266cb14210a3c9e6030a10c30"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.x86_64-unknown-freebsd.tar.gz"
 [[OSQP]]
 arch = "x86_64"
-git-tree-sha1 = "124b9690655414d8a1a51c879bbecf2a9641e821"
+git-tree-sha1 = "ac2317894f5f3e026f3ac31f938d9a6b51da960b"
 os = "windows"
 
     [[OSQP.download]]
-    sha256 = "4dda25a7334178508f23b4440f7ad47a2009bcf922b72711aeac3bef91d14666"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v1.0.100+0/OSQP.v1.0.100.x86_64-w64-mingw32.tar.gz"
-[[OSQP]]
-arch = "x86_64"
-git-tree-sha1 = "84e7d6b8191a8f9a9d9f378a96b54dbb23f50eab"
-libc = "glibc"
-os = "linux"
-
-    [[OSQP.download]]
-    sha256 = "806c16e234944359a1c9f2ee24dd2c20098724453b8f5a9ab5888bd57f1f7827"
-    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "08c48b49edfab683454c5c5164ec40e842cb5e67aba2861368b6944f0137d1c2"
+    url = "https://github.com/osqp/OSQP_jll.jl/releases/download/OSQP-v100.0.0+0/OSQP.v100.0.0.x86_64-w64-mingw32.tar.gz"
